@@ -1,0 +1,62 @@
+* {
+    font-family: "Barlow", sans-serif;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.452);
+    color: #fff;
+    font-weight: bold;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #333;
+}
+
+#cabecalho .nav .nav-link {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+    padding: .2em;
+}
+
+.carousel-item img{
+    width: 100vw;
+}
+
+.section-title {
+    font-weight: 800;
+    font-style: italic;
+    color: #CD192D;
+    font-size: 1.5em;
+    letter-spacing: .1em;
+
+}
+.nav-modelos .nav-link {
+    color: #CD192D;
+}
+
+.nav-modelos .nav-link.active {
+    background-color: #333;
+    color: #fff;
+}
+
+.nav-modelos .nav-link:hover{
+    font-weight: bold;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+    color: #CD192D;
+}
+
+#contato button {
+    background-color:#CD192D;
+    color: #fff;
+}
